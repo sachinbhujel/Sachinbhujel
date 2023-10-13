@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sachin Bhujel!</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhujel&label=Profile%20views&color=0e75b6&style=flat" alt="sachinbhujel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhujel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sachinbhujel" /> </p>
 
 
 - 🔭 I’m currently working on **100daysofcode**
