@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sachinbhujel/100daysofcode](https://sachinbhujel.netlify.app)
+- 👨‍💻 All of my projects are available at (https://sachinbhujel.netlify.app)
 
 - 💬 Ask me about **HTML, CSS and Javascript**
 
