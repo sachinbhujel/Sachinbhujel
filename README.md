@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sachinbhujel909@gmail.com**
 
-- 📄 Know about my experiences [https://codepen.io/Sachinbhujel/pen/VwEYxMw](https://codepen.io/Sachinbhujel/pen/VwEYxMw)
+<!--- 📄 Know about my experiences [https://codepen.io/Sachinbhujel/pen/VwEYxMw](https://codepen.io/Sachinbhujel/pen/VwEYxMw)-->
 
 - ⚡ Fun fact **I think i am funny!🙃**
 
