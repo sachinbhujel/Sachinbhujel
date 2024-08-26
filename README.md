@@ -10,7 +10,7 @@
 
 - 👨‍💻 Portfolio Website https://sachinbhujel.netlify.app
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about **HTML, CSS Javascript and React**
 
 - 📫 How to reach me **sachinbhujel909@gmail.com**
 
