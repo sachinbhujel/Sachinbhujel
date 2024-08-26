@@ -34,7 +34,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhujel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!--<div align="center"> 
+<div align="center"> 
   <h2>✍️ Quote Of The Day:</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</div>-->
+</div>
