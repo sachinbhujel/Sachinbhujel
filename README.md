@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS Javascript and React**
 
-- 📫 How to reach me **sachinbhujel909@gmail.com**
+- 📫 How to reach me **sachinbhujel@duck.com**
 
 <!--- 📄 Know about my experiences [https://codepen.io/Sachinbhujel/pen/VwEYxMw](https://codepen.io/Sachinbhujel/pen/VwEYxMw)-->
 
