@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachinbhujel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachinbhujel" height="30" width="40" /></a>
-<a href="https://twitter.com/sachinbhujel909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinbhujel909" height="30" width="40" /></a>
+<a href="https://peerlist.com/sachinbhujel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/peerlist.svg" alt="sachinbhujel909" height="30" width="40" /></a>
 </p>
 
 
