@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://bubkoo-server.vercel.app/daily-saying" width="457" />
+  <img src="https://bubkoo-server.vercel.app/365dots" width="381"/>
+</p>
+
+
+
 <h1 align="center">Hi 👋 I'm Sachin Bhujel!</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
