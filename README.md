@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://bubkoo-server.vercel.app/daily-saying" width="457" />
-  <img src="https://bubkoo-server.vercel.app/365dots" width="381"/>
-</p>
-
-
-
 <h1 align="center">Hi 👋 I'm Sachin Bhujel!</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
@@ -36,7 +29,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sachinbhujel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhujel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<img src="https://bubkoo-server.vercel.app/365dots"/>
 <div align="center"> 
   <h2>✍️ Quote Of The Day:</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
