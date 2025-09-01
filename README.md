@@ -1,5 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhujel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sachinbhujel" /> </p>
+<img src="https://bubkoo-server.vercel.app/365dots"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhujel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sachinbhujel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sachinbhujel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinbhujel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://bubkoo-server.vercel.app/365dots"/>
 <div align="center"> 
   <h2>✍️ Quote Of The Day:</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
