@@ -1,18 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinbhujel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sachinbhujel" /> </p>
 
 
-- 🔭 I’m currently working on **NextJS Projects**
-
-- 🌱 I’m currently learning **Web Development**
-
-- 💬 Ask me about **HTML, CSS Javascript and React**
-
-- 📫 How to reach me **sachinbhujel@duck.com**
-
-<!--- 📄 Know about my experiences [https://codepen.io/Sachinbhujel/pen/VwEYxMw](https://codepen.io/Sachinbhujel/pen/VwEYxMw)-->
-
-- ⚡ Fun fact **I think i am funny!🙃**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachinbhujel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachinbhujel" height="30" width="40" /></a>
